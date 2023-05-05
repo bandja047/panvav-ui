@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bandja047/panvac/static/css/main.be70cede.css",
-    "main.js": "/bandja047/panvac/static/js/main.3eeac1b6.js",
-    "static/media/logo.png": "/bandja047/panvac/static/media/logo.e32116f720352d6f64c6.png",
-    "index.html": "/bandja047/panvac/index.html",
-    "main.be70cede.css.map": "/bandja047/panvac/static/css/main.be70cede.css.map",
-    "main.3eeac1b6.js.map": "/bandja047/panvac/static/js/main.3eeac1b6.js.map"
+    "main.css": "/bandja047/panvav-ui/static/css/main.a20b4871.css",
+    "main.js": "/bandja047/panvav-ui/static/js/main.0863f3e7.js",
+    "static/media/logo.png": "/bandja047/panvav-ui/static/media/logo.e32116f720352d6f64c6.png",
+    "index.html": "/bandja047/panvav-ui/index.html",
+    "main.a20b4871.css.map": "/bandja047/panvav-ui/static/css/main.a20b4871.css.map",
+    "main.0863f3e7.js.map": "/bandja047/panvav-ui/static/js/main.0863f3e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.be70cede.css",
-    "static/js/main.3eeac1b6.js"
+    "static/css/main.a20b4871.css",
+    "static/js/main.0863f3e7.js"
   ]
 }
