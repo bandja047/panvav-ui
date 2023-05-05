@@ -1,0 +1,41 @@
+
+
+
+.layout-top{
+   
+
+    position:fixed;
+    height: 52px;
+    top:0;
+    left: 100px;
+    right: 0;
+     ;
+
+     z-index:3;
+   
+}
+
+.layout-right{
+    position:fixed;
+  
+    top: 0;
+    left:0;
+    bottom:0;
+    width:100px;
+    z-index:2;
+}
+.layout-content{
+
+    position: absolute;
+  
+    background-color:#ecf0f3 ;
+    top:62px;
+    left: 100px;
+    right: 0;
+    bottom: 0;
+    z-index:1;
+    
+}
+
+
+
